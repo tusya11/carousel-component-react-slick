@@ -1,6 +1,13 @@
 # Carousel Component with React-Slick
 
+The carousel component for displaying images.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img width="1418" alt="Снимок экрана 2022-06-02 в 14 01 58" src="https://user-images.githubusercontent.com/62177136/171615719-42a7dee8-03d4-4cab-902f-38d3b1e187a8.png">
+
+Below is a video where you can see how the carousel component works.
+
 
 ## Available Scripts
 
