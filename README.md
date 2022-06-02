@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Below is a video where you can see how the carousel component works.
 
+https://user-images.githubusercontent.com/62177136/171616397-8d966421-5144-44b9-9ff0-35b9a16f2fd3.mov
+
 
 ## Available Scripts
 
